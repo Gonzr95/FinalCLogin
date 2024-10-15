@@ -1,0 +1,150 @@
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final.pdb
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmListado.resources
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmLogin.resources
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmPrincipal.resources
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmUsuario.resources
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CopyComplete
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\Maxi\source\repos\Final.LabII\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmListado.resources
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmLogin.resources
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmPrincipal.resources
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmUsuario.resources
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.pdb
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinForms.79E25943.Up2Date
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\refint\WinFormsApp.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.pdb
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmListado.resources
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmLogin.resources
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmPrincipal.resources
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmUsuario.resources
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinForms.79E25943.Up2Date
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\refint\WinFormsApp.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.pdb
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmListado.resources
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmLogin.resources
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmPrincipal.resources
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmUsuario.resources
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinForms.79E25943.Up2Date
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\refint\WinFormsApp.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.exe
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.deps.json
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.json
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.runtimeconfig.dev.json
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\WinFormsApp.pdb
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\bin\Debug\net5.0-windows\Entidades.Final2.pdb
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.AssemblyReference.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmListado.resources
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmLogin.resources
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmPrincipal.resources
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.FrmUsuario.resources
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.GenerateResource.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfoInputs.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.AssemblyInfo.cs
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.csproj.CoreCompileInputs.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinForms.79E25943.Up2Date
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\refint\WinFormsApp.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.pdb
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\WinFormsApp.genruntimeconfig.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\WinFormsApp\obj\Debug\net5.0-windows\ref\WinFormsApp.dll

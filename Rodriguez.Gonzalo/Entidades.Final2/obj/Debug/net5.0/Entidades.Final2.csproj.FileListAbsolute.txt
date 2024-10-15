@@ -1,0 +1,48 @@
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.deps.json
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.pdb
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.AssemblyReference.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfoInputs.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfo.cs
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.CoreCompileInputs.cache
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\refint\Entidades.Final2.dll
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.pdb
+D:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\ref\Entidades.Final2.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.deps.json
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.pdb
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.AssemblyReference.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfoInputs.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfo.cs
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.CoreCompileInputs.cache
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\refint\Entidades.Final2.dll
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.pdb
+G:\Proyectos personales\VisualStudio\DEFINITIVOS\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\ref\Entidades.Final2.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.deps.json
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.pdb
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.AssemblyReference.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfoInputs.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfo.cs
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.CoreCompileInputs.cache
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\refint\Entidades.Final2.dll
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.pdb
+C:\Users\gonzr\OneDrive\Escritorio\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\ref\Entidades.Final2.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.deps.json
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\bin\Debug\net5.0\Entidades.Final2.pdb
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.AssemblyReference.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfoInputs.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.AssemblyInfo.cs
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.csproj.CoreCompileInputs.cache
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\refint\Entidades.Final2.dll
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\Entidades.Final2.pdb
+G:\Proyectos personales\Laboratorio II - C#\Parciales\Finales\Final.LabII_finales--renombar_con_apellido.nombre\Rodriguez.Gonzalo\Entidades.Final2\obj\Debug\net5.0\ref\Entidades.Final2.dll
